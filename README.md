@@ -144,11 +144,3 @@ expense-tracker-cli/
 ## License
 
 This project is open-source and intended for learning and personal use.
-
-```
-
-If you want, I can also:
-- Rename commands to a global `expense-tracker` executable
-- Add screenshots / demo output
-- Tailor this exactly for **roadmap.sh submission**
-```
